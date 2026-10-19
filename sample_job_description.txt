@@ -1,0 +1,20 @@
+Junior Generative AI Engineer
+Helix Systems - Remote (India)
+
+About the role
+Helix Systems builds document intelligence tools for law firms. You will help ship retrieval-augmented generation features to production.
+
+Requirements
+- 0-2 years of experience building Python applications
+- Hands-on experience with LangChain and vector databases such as ChromaDB or Pinecone
+- Experience with the OpenAI or Anthropic APIs and prompt engineering
+- Ability to build REST APIs with FastAPI
+- Familiarity with Docker and deploying services on AWS
+- Experience evaluating RAG systems (retrieval quality, hallucination checks)
+
+Nice to have
+- Experience with Kubernetes
+- Contributions to open source projects
+
+Compensation
+INR 6-9 LPA depending on experience. Health insurance is included.

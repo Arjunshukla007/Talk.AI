@@ -1,0 +1,14 @@
+{"question": "Where did the candidate work as an intern?", "expected": "Nova Labs", "answerable": true}
+{"question": "By how much did the search tool reduce lookup time?", "expected": "40 percent", "answerable": true}
+{"question": "Which degree does the candidate hold?", "expected": "B.Tech", "answerable": true}
+{"question": "What is the Campus FAQ Bot built with?", "expected": "FastAPI service", "answerable": true}
+{"question": "Which LLM APIs does the candidate know?", "expected": "OpenAI API, Claude API", "answerable": true}
+{"question": "Which city is the candidate based in?", "expected": "Bhopal", "answerable": true}
+{"question": "What is the job title at Helix Systems?", "expected": "Junior Generative AI Engineer", "answerable": true}
+{"question": "Which cloud platform does the role require?", "expected": "AWS", "answerable": true}
+{"question": "How many years of experience does the job expect?", "expected": "0-2 years", "answerable": true}
+{"question": "What is the salary range for the job?", "expected": "INR 6-9 LPA", "answerable": true}
+{"question": "Is Kubernetes required for the job?", "expected": "Kubernetes", "answerable": true}
+{"question": "Does the job include health insurance?", "expected": "Health insurance", "answerable": true}
+{"question": "What is the candidate's favourite colour?", "expected": "", "answerable": false}
+{"question": "Does Helix Systems offer stock options?", "expected": "", "answerable": false}

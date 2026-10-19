@@ -1,0 +1,22 @@
+Aarav Sharma
+Generative AI Engineer | aarav.sharma@example.com | Bhopal, India
+
+Summary
+Entry-level AI engineer who builds retrieval-augmented generation apps with Python, LangChain and ChromaDB.
+
+Skills
+Languages: Python, SQL
+AI and ML: LangChain, RAG, OpenAI API, Claude API, Prompt Engineering
+Tools: FastAPI, Streamlit, ChromaDB, Git, GitHub
+
+Education
+B.Tech in Computer Science, Rajiv Gandhi Proudyogiki Vishwavidyalaya, 2021 - 2025
+
+Experience
+AI Intern, Nova Labs, Jan 2025 - Jun 2025
+- Built a support-ticket search tool using embeddings and ChromaDB that cut lookup time by 40 percent.
+- Wrote evaluation scripts to compare answers from OpenAI and Claude models.
+
+Projects
+Talk.AI - Document Copilot: Streamlit app that answers questions about PDFs with source citations.
+Campus FAQ Bot: FastAPI service that answers student questions from official handbooks.
